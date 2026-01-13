@@ -1,0 +1,75 @@
+[
+    {
+        "RA": "34243214",
+        "nome": "24432",
+        "habilitado": true,
+        "NP1": null,
+        "NP2": null,
+        "PIM": null
+    },
+    {
+        "RA": "12345",
+        "nome": "ruan",
+        "habilitado": true,
+        "NP1": 3.0,
+        "NP2": 5.0,
+        "PIM": 9.0
+    },
+    {
+        "RA": "8888",
+        "nome": "carlos da silva",
+        "habilitado": true,
+        "NP1": 8.0,
+        "NP2": 9.0,
+        "PIM": 10.0
+    },
+    {
+        "RA": "9999",
+        "nome": "henrique",
+        "habilitado": true,
+        "NP1": null,
+        "NP2": null,
+        "PIM": null,
+        "Media": null,
+        "Situacao": null
+    },
+    {
+        "RA": "7777",
+        "nome": "matheus",
+        "habilitado": true,
+        "NP1": null,
+        "NP2": null,
+        "PIM": null,
+        "Media": null,
+        "Situacao": null
+    },
+    {
+        "RA": "3333",
+        "nome": "roberto",
+        "habilitado": true,
+        "NP1": null,
+        "NP2": null,
+        "PIM": null,
+        "Media": null,
+        "Situacao": null
+    },
+    {
+        "RA": "7766",
+        "nome": "vini",
+        "habilitado": true,
+        "NP1": null,
+        "NP2": null,
+        "PIM": null,
+        "Media": null,
+        "Situacao": null
+    },
+    {
+        "RA": "0000",
+        "nome": "luiz",
+        "NP1": 0.0,
+        "NP2": 9.0,
+        "PIM": 9.0,
+        "Media": 5.4,
+        "Situacao": "Recuperacao"
+    }
+]

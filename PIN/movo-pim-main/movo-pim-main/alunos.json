@@ -1,0 +1,62 @@
+[
+    {
+        "RA": "pa12345",
+        "nome": "Pedro Antonio",
+        "habilitado": true,
+        "notas": {
+            "NP1": null,
+            "NP2": null,
+            "PIM": null
+        },
+        "NP1": 9.0,
+        "NP2": 8.0,
+        "PIM": 5.0
+    },
+    {
+        "RA": "RO1234",
+        "nome": "Roberth dos Santos Bispo",
+        "habilitado": true,
+        "notas": {
+            "NP1": null,
+            "NP2": null,
+            "PIM": null
+        },
+        "NP1": 10.0,
+        "NP2": 10.0,
+        "PIM": 10.0
+    },
+    {
+        "RA": "vm4567",
+        "nome": "Vitor Marcondes",
+        "habilitado": true,
+        "notas": {
+            "NP1": null,
+            "NP2": null,
+            "PIM": null
+        },
+        "NP1": 10.0,
+        "NP2": 10.0,
+        "PIM": 10.0
+    },
+    {
+        "RA": "vic4567",
+        "nome": "Vitor Marcondes Castro",
+        "habilitado": true,
+        "notas": {
+            "NP1": null,
+            "NP2": null,
+            "PIM": null
+        },
+        "NP1": 5.0,
+        "NP2": 9.0,
+        "PIM": 2.0
+    },
+    {
+        "RA": "BH789",
+        "nome": "Bruno Silva Santos ",
+        "habilitado": true,
+        "NP1": 10.0,
+        "NP2": 10.0,
+        "PIM": 10.0
+    }
+]

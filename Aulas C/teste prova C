@@ -1,0 +1,43 @@
+// Online C compiler to run C program online
+// #include <stdio.h>
+
+// int main() {
+
+// int idade;
+
+
+// printf("idade :");
+// scanf("%d", &idade);
+
+
+// if (idade<=13){
+// printf("%d, voce não tem idade\n", idade );
+// }
+
+// else {
+// printf("pode assitir");
+// }
+
+// return 0;
+// }
+
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+
+float base;
+float altura;
+
+printf("digite base do triangulo:");
+scanf("%f",&base);
+
+printf("altura do triangulo:");
+scanf("%f",&altura);
+
+float resultado=(base*altura)/2;
+printf("%f area do triangulo equilatero", resultado);
+
+
+return 0;
+}
