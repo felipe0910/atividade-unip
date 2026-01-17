@@ -1,6 +1,7 @@
-# 🎓 Atividades Acadêmicas - UNIP
+# 🎓 Atividades Acadêmicas - UNIP 
 
-Este repositório armazena os projetos, exercícios e trabalhos práticos desenvolvidos durante a graduação em **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Paulista (UNIP)**.
+
+Este repositório armazena os projetos, exercícios práticos desenvolvidos durante a graduação em **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Paulista (UNIP)**.
 
 <p align="center">
   <img src="https://logospng.org/download/unip/logo-unip-vermelha-1024.png" alt="Logo UNIP" width="150">
@@ -11,6 +12,5 @@ O intuito deste espaço é organizar o histórico de aprendizado acadêmico, con
 
 ## 🛠️ Tecnologias Utilizadas
 Dependendo da disciplina, os projetos abrangem tecnologias como:
-* **Linguagens:** C, Python e JavaScript.
-* **Banco de Dados:** MySql.
+* **Linguagens:** C, Python.
 * **Ferramentas:** Git, VS Code e PowerShell.
